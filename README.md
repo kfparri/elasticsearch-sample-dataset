@@ -14,3 +14,4 @@ The elasticsearch sample datasets scripted to create local development with elas
     ``` 
     ./pushData.sh > output.out 
     ```
+    You can also use the powershell script to upload the data, unless you want to update your powershell restriction policy to unrestricted (which you shouldn't!) simply copy and paste the contents of ```pushData.ps1``` into a powershell window.
